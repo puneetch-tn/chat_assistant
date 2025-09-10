@@ -1,0 +1,8 @@
+Kuby link : https://sites.google.com/teraneuro.com/tn-contributors/home
+Hume Triage link : https://docs.google.com/document/d/1zOb7K2HDGTiVAC12MROVo4eUJk24f6PY5dLNPW_cKas/edit?tab=t.0#heading=h.z1tfgr9i9opn
+Sports' Schema : https://docs.google.com/document/d/1ADEeYz0c5xvp4J0Fvgfhz1_C3Z1Aj7o-SjSdDrepwGs/view?tab=t.0#heading=h.386p8cmbzc47
+Sports' Supplement : https://docs.google.com/document/d/1ZVMEnmaNvMn5VUVx-mYO1dVnAn6tW6gNvG4HhPKLuBM/view?tab=t.0
+Common mistakes on Sports Recon jobs : https://docs.google.com/document/d/1CwPGxQsddiNRLEOKvDS3Hfb8VMizPScuM52_to625Xs/view?tab=t.0
+Schema Notes for /lr_sports : https://docs.google.com/document/d/1eGLQF-vr_OF371xOvl-GE1LuZZoiBFuqnBWNsBDDnCc/view?tab=t.0
+Schema Notes for /olympics : https://docs.google.com/document/d/1zES0dwdgZZM2kLXQ6Q7DXKDdUuh7tSsk4hTjtnv6PXo/view?tab=t.0
+Schema Notes for /tennis : https://docs.google.com/document/d/14Zp7v8giuOON-8PsNRlsuZSq2ivqkLrkDfL2NUz1N2g/view?tab=t.0
